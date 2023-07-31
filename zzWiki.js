@@ -10,7 +10,7 @@ async function testit() {
     } catch(error) {
         console.log(error.message);
         return false;
-    }
+    } 
 
     try {
         let inputBox = await driver.findElement(By.id('searchInput'));

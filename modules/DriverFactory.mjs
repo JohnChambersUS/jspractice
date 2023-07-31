@@ -10,6 +10,6 @@ export class DriverFactory {
         console.log("firefox class");
         let currDriver = new MainDriver();
         return currDriver;
-    }
+    } 
 
 }

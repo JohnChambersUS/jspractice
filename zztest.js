@@ -12,4 +12,4 @@ setTimeout(() => {
     console.log('Pause');
   }, 2000);
 
-driver.stopBrowser();
+driver.stopBrowser(); 
