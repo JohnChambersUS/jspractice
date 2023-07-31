@@ -1,0 +1,16 @@
+{
+  "name": "seleniumjs1",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "zzWiki.js",
+  "scripts": {
+    "test": "na"
+  },
+  "keywords": [
+    "my",
+    "keywords"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "type": "module"
+}
